@@ -1,8 +1,8 @@
 
 # 🚗 CV-for-CHUer
 
-> 🎓 A LaTeX/XeLaTeX CV template for Chang’an University students and CHUers.  
-> 专为长安大学学生与 CHUer 打造的中文简历模板。
+> 🎓 A LaTeX/XeLaTeX CV template for Chang’an University students and CHUers.  Please use XeLaTex.
+> 专为长安大学学生与 CHUer 打造的中文简历模板。请使用XeLaTeX编译。
 
 ---
 
