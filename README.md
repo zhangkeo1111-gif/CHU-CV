@@ -1,15 +1,15 @@
 
 # 🚗 CV-for-CHUer
 
-> 🎓 A LaTeX/XeLaTeX CV template for Chang’an University students and CHUers.  Please use XeLaTex.
+> 🎓 A LaTeX/XeLaTeX CV template for Chang’an University students and CHUers.  
 
-> 专为长安大学学生与 CHUer 打造的中文简历模板。请使用XeLaTeX编译。
+> 专为长安大学学生与 CHUer 打造的中文简历模板。
 
 ---
 
 ## ✨ 项目简介
 
-本项目是一个专为 **长安大学学生 / CHUer** 制作的 **LaTeX/XeLaTeX 中文简历模板**，可用于 **保研、求职、实习申请、竞赛报名** 以及各类材料投递。
+本项目是一个专为 **长安大学学生 / CHUer** 制作的 **LaTeX/XeLaTeX 中文简历模板**，可用于 **保研、求职、实习申请、竞赛报名** 以及各类材料投递。请使用**XeLaTeX**编译。
 
 模板设计主要参考了 **NPU-CV、NCU-CV** 以及一些经典中文简历模板，并在此基础上融入了长安大学风格的页眉页脚、蓝色学术化版式与模块化排版结构。模板支持以下常用简历模块：
 
@@ -29,7 +29,7 @@
 
 ## 🌍 English Introduction
 
-This is a **LaTeX/XeLaTeX Chinese CV template** specially designed for **Chang’an University students and CHUers**. It can be used for graduate program applications, job hunting, internship applications, competition registration, and various other submissions.
+This is a **LaTeX/XeLaTeX Chinese CV template** specially designed for **Chang’an University students and CHUers**. It can be used for graduate program applications, job hunting, internship applications, competition registration, and various other submissions. **Please use XeLaTex**.
 
 The template is mainly inspired by **NPU-CV, NCU-CV**, and several classic Chinese resume templates. Based on these references, it integrates Chang’an University-style header and footer designs, a blue academic visual layout, and a modular structure. It supports common CV sections such as personal information, education background, honors and awards, competition experience, internship experience, project experience, and skills.
 
