@@ -7,7 +7,6 @@ This repository also provides a playful Usagi-themed demo to showcase the templa
 
 This template is still under continuous improvement. If you encounter any problems, layout issues, or bugs during use, feel free to contact me, submit an issue, or open a pull request to help improve the project.
 
-```markdown
 ## Preview
 
 <p align="center">
