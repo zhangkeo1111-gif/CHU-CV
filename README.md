@@ -9,10 +9,10 @@ This template is still under continuous improvement. If you encounter any proble
 ## Preview
 
 <p align="center">
-  <img src="CHU_CV_01.jpg" width="750">
+  <img src="CHU_CV_01.jpg" width="300">
 </p>
 
 <p align="center">
-  <img src="CHU_CV_02.jpg" width="750">
+  <img src="CHU_CV_02.jpg" width="300">
 </p>
 联系/contact: zhangkeo1111@gmail.com
