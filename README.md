@@ -43,4 +43,6 @@ This template is still under continuous improvement. If you encounter any proble
   <img src="CHU_CV_02.jpg" width="360">
 </p>
 
+项目地址/Project Address：https://github.com/zhangkeo1111-gif/CHU-CV
+Overleaf:
 联系/contact: zhangkeo1111@gmail.com
