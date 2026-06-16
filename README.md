@@ -35,7 +35,6 @@ The template is mainly inspired by **NPU-CV, NCU-CV**, and several classic Chine
 This repository also provides a playful **Usagi-themed demo** to showcase the template in a more relaxed way. From replacing text and changing the avatar to customizing the logo, background images, contact information, and section contents, Usagi will guide users step by step to create a polished, clear, and submission-ready Chinese CV PDF.
 
 This template is still under continuous improvement. If you encounter any problems, layout issues, or bugs during use, feel free to contact me, submit an issue, or open a pull request to help improve the project.
-```
 
 ## Preview
 
