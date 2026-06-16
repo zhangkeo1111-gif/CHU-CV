@@ -6,13 +6,13 @@ A LaTeX/XeLaTeX Chinese CV template specially designed for Chang’an University
 This repository also provides a playful Usagi-themed demo to showcase the template in a more relaxed way. From replacing text and changing the avatar to customizing the logo, background images, contact information, and section contents, Usagi will guide users step by step to create a polished, clear, and submission-ready Chinese CV PDF.
 
 This template is still under continuous improvement. If you encounter any problems, layout issues, or bugs during use, feel free to contact me, submit an issue, or open a pull request to help improve the project.
+
 ## Preview
 
 <p align="center">
-  <img src="CHU_CV_01.jpg" width="300">
+  <img src="preview/CHU_CV_01.jpg" width="360">
+  <img src="preview/CHU_CV_02.jpg" width="360">
 </p>
+```
 
-<p align="center">
-  <img src="CHU_CV_02.jpg" width="300">
-</p>
 联系/contact: zhangkeo1111@gmail.com
