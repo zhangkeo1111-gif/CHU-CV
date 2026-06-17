@@ -48,6 +48,6 @@ This template is still under continuous improvement. If you encounter any proble
 
 项目地址/Project Address：https://github.com/zhangkeo1111-gif/CHU-CV
 
-Overleaf: 可直接下载zip上传到overleaf使用，直接可以使用的模板还在审核
+Overleaf: overleaf gallery 不再接收cv模板，可直接上传zip使用。
 
 联系/contact: zhangkeo1111@gmail.com
