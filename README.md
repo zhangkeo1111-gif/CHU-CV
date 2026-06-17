@@ -1,9 +1,9 @@
 
 # 🚗 CV-for-CHUer
 
-> 🎓 A LaTeX/XeLaTeX CV template for Chang’an University students and CHUers.  
+> 🎓 A LaTeX/XeLaTeX CV template for Chang’an University students/CHUers.  
 
-> 专为长安大学学生与 CHUer 打造的中文简历模板。
+> 专为长安大学学生/CHUer 打造的中文简历模板。
 
 ---
 
@@ -25,6 +25,7 @@
 
 本模板仍在持续完善中。如果你在使用过程中遇到问题、排版错误或其他 bug，欢迎联系反馈，也欢迎提交 issue 或 PR 一起改进。
 
+Fonts:字体；Images：素材图片；CHU_CV.tex:主体tex；zip：压缩包；pdf,png:模板实例
 ---
 
 ## 🌍 English Introduction
@@ -46,6 +47,6 @@ This template is still under continuous improvement. If you encounter any proble
 
 项目地址/Project Address：https://github.com/zhangkeo1111-gif/CHU-CV
 
-Overleaf:
+Overleaf: 可直接下载zip上传到overleaf使用，直接可以使用的模板还在审核
 
 联系/contact: zhangkeo1111@gmail.com
