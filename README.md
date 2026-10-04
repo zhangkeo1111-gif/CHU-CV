@@ -5,6 +5,18 @@
 
 > 专为长安大学学生/CHUer 打造的中文简历模板。
 
+## v2.0
+
+v2.0 主要对模板排版进行了优化：整体字号和留白更紧凑，缩小左右页边距，提高页面空间利用率；重新调整了一级/二级标题、列表和正文间距，改善内容堆叠问题；修复中文字符异常拉伸、多页页眉字号不一致以及页眉页脚遮挡正文的问题。同时保留原有长安大学蓝色页眉、页脚、Logo 和水印风格，使模板更适合高信息密度的中文科研与求职简历。
+
+下载：[完整模板 ZIP](https://github.com/zhangkeo1111-gif/CHU-CV/releases/download/v2.0/CHU_CV.zip) · [PDF 示例](CHU_CV.pdf) · [v2.0 Release](https://github.com/zhangkeo1111-gif/CHU-CV/releases/tag/v2.0)
+
+解压 ZIP 后，在 Overleaf 中将主文档设为 `CHU-CV.tex`、编译器设为 **XeLaTeX**。本地可在项目目录执行以下命令两次：
+
+```sh
+xelatex -interaction=nonstopmode -halt-on-error CHU-CV.tex
+```
+
 ---
 
 ## ✨ 项目简介
@@ -25,7 +37,7 @@
 
 本模板仍在持续完善中。如果你在使用过程中遇到问题、排版错误或其他 bug，欢迎联系反馈，也欢迎提交 issue 或 PR 一起改进。
 
-**Fonts:字体；Images：素材图片；CHU_CV.tex:主体tex；zip：压缩包；pdf,png:模板实例**
+**fonts/：字体；images/：素材图片；CHU-CV.tex：主文档；CHU_CV.zip：完整模板；CHU_CV.pdf、CHU_CV_01.jpg、CHU_CV_02.jpg：示例与预览**
 
 ---
 
